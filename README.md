@@ -1,5 +1,5 @@
 # E-commerce Back End with Starter Code
-This repo is used to house code for the E-commerce Bank with starter code
+This repo is used to house code for the E-commerce Back End Challenge with starter code
 
 # User Story
 AS A manager at an internet retail company  
@@ -19,7 +19,7 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core  
 THEN I am able to successfully create, update, and delete data in my database  
 
-![E-commerce Back End]() 
+![E-commerce Back End](./assets/E-CommerceBackEnd.png) 
 
-Repository Link:  
-Video Link: 
+Repository Link: https://github.com/pvang1987/E-Commerce-Back-End  
+Video Link: https://watch.screencastify.com/v/9nnP9CMkEiBQoURFVC73  
